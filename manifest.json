@@ -1,0 +1,19 @@
+{
+  "name": "QuizInfini — Culture Générale",
+  "short_name": "QuizInfini",
+  "description": "Quiz de culture générale infini — 7 thèmes, chrono 20s, 100% gratuit.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f7f5",
+  "theme_color": "#185FA5",
+  "orientation": "portrait",
+  "lang": "fr",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "screenshots": [
+    { "src": "icons/screenshot.png", "sizes": "390x844", "type": "image/png" }
+  ],
+  "categories": ["games", "education", "entertainment"]
+}
